@@ -27,6 +27,7 @@ hs_err_pid*
 *.iml
 
 /runtime/target/
+/runtime/data/
 /api/target/
 /server/target/
 /target/

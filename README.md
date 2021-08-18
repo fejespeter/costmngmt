@@ -37,4 +37,6 @@ Created by Peter Fejes for ChemAxon interview.
 
 ### How to run the application
 
+- In the root folder execute the following command:``mvn clean install -U``
+- In the ../runtime folder execute the following command:``./mvnw spring-boot:run``
 
