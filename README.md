@@ -34,3 +34,7 @@ Created by Peter Fejes for ChemAxon interview.
 - POST localhost:8080/avgOfCosts/{userId}
     - Requires an userId as path parameter
 
+
+### How to run the application
+
+

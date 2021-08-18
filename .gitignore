@@ -23,4 +23,10 @@
 hs_err_pid*
 
 .idea/
-.idea/*
+
+*.iml
+
+/runtime/target/
+/api/target/
+/server/target/
+/target/
